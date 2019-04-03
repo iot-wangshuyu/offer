@@ -5,7 +5,6 @@
  * @author:Shuyu.Wang
  * @date:2019-04-02 18:25
  * @version:V1.0
- * @ Copyright © 2017-ganinfo. All rights reserved.
  **/
 
 public class ReplaceBlank {
