@@ -8,6 +8,7 @@
  - 2.3.5栈和队列[\[CSDN\]][10][\[个人博客\]][11]
  - 2.4.1旋转数组的最小数字[\[CSDN\]][12][\[个人博客\]][13]
  - 2.4.2递归和循环（斐波那契数列）[\[CSDN\]][14][\[个人博客\]][15]
+ - 2.4.3位预算[\[CSDN\]][16][\[个人博客\]][17]
 
   [2]: https://blog.csdn.net/wang_shuyu/article/details/88977106
   [3]: http://www.littletree.xyz/archives/jian-zhi-offer231shu-zu-cha-zhao
@@ -23,3 +24,5 @@
   [13]: http://www.littletree.xyz/archives/jian-zhi-offer241xuan-zhuan-shu-zu-de-zui-xiao-shu-zi
   [14]: https://blog.csdn.net/wang_shuyu/article/details/89813987
   [15]: http://www.littletree.xyz/archives/20190504152235
+  [16]: https://blog.csdn.net/wang_shuyu/article/details/89815499
+  [17]: http://www.littletree.xyz/archives/20190504171416
