@@ -7,7 +7,7 @@
  - 2.3.4重建二叉树[\[CSDN\]][8][\[个人博客\]][9]
  - 2.3.5栈和队列[\[CSDN\]][10][\[个人博客\]][11]
  - 2.4.1旋转数组的最小数字[\[CSDN\]][12][\[个人博客\]][13]
-
+ - 2.4.2递归和循环（斐波那契数列）[\[CSDN\]][14][\[个人博客\]][15]
 
   [2]: https://blog.csdn.net/wang_shuyu/article/details/88977106
   [3]: http://www.littletree.xyz/archives/jian-zhi-offer231shu-zu-cha-zhao
@@ -21,3 +21,5 @@
   [11]: http://www.littletree.xyz/archives/jian-zhi-offer235zhan-he-dui-lie
   [12]: https://blog.csdn.net/wang_shuyu/article/details/89605284
   [13]: http://www.littletree.xyz/archives/jian-zhi-offer241xuan-zhuan-shu-zu-de-zui-xiao-shu-zi
+  [14]: https://blog.csdn.net/wang_shuyu/article/details/89813987
+  [15]: http://www.littletree.xyz/archives/20190504152235
