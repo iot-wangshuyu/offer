@@ -9,7 +9,8 @@
  - 2.4.1旋转数组的最小数字[\[CSDN\]][12][\[个人博客\]][13]
  - 2.4.2递归和循环（斐波那契数列）[\[CSDN\]][14][\[个人博客\]][15]
  - 2.4.3位预算[\[CSDN\]][16][\[个人博客\]][17]
-
+ - 3.3 数的整次方[\[CSDN\]][18][\[个人博客\]][19]
+ 
   [2]: https://blog.csdn.net/wang_shuyu/article/details/88977106
   [3]: http://www.littletree.xyz/archives/jian-zhi-offer231shu-zu-cha-zhao
   [4]: https://blog.csdn.net/wang_shuyu/article/details/88989866
@@ -26,3 +27,5 @@
   [15]: http://www.littletree.xyz/archives/20190504152235
   [16]: https://blog.csdn.net/wang_shuyu/article/details/89815499
   [17]: http://www.littletree.xyz/archives/20190504171416
+  [18]: https://blog.csdn.net/wang_shuyu/article/details/90143152
+  [19]: http://www.littletree.xyz/archives/jian-zhi-offer33-shu-de-zheng-shu-ci-fang
