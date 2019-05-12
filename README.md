@@ -10,7 +10,8 @@
  - 2.4.2递归和循环（斐波那契数列）[\[CSDN\]][14][\[个人博客\]][15]
  - 2.4.3位预算[\[CSDN\]][16][\[个人博客\]][17]
  - 3.3 数的整次方[\[CSDN\]][18][\[个人博客\]][19]
- 
+  - 3.3 打印1到最大的n位数[\[CSDN\]][20][\[个人博客\]][21]
+  
   [2]: https://blog.csdn.net/wang_shuyu/article/details/88977106
   [3]: http://www.littletree.xyz/archives/jian-zhi-offer231shu-zu-cha-zhao
   [4]: https://blog.csdn.net/wang_shuyu/article/details/88989866
@@ -29,3 +30,5 @@
   [17]: http://www.littletree.xyz/archives/20190504171416
   [18]: https://blog.csdn.net/wang_shuyu/article/details/90143152
   [19]: http://www.littletree.xyz/archives/jian-zhi-offer33-shu-de-zheng-shu-ci-fang
+  [20]: https://blog.csdn.net/wang_shuyu/article/details/90143736
+  [21]: http://www.littletree.xyz/archives/jian-zhi-offer-da-yin-1dao-zui-da-de-nwei-shu
