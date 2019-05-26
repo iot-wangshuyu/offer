@@ -12,6 +12,8 @@
  - 3.3 数的整次方[\[CSDN\]][18][\[个人博客\]][19]
  - 3.3 打印1到最大的n位数[\[CSDN\]][20][\[个人博客\]][21]
  - 3.3 在O(1)时间删除链表节点 [\[CSDN\]][22][\[个人博客\]][23]
+ - 3.3 调整数组顺序奇数位于偶数前面 [\[CSDN\]][24][\[个人博客\]][25]
+ 
  
   [2]: https://blog.csdn.net/wang_shuyu/article/details/88977106
   [3]: http://www.littletree.xyz/archives/jian-zhi-offer231shu-zu-cha-zhao
@@ -32,7 +34,8 @@
   [18]: https://blog.csdn.net/wang_shuyu/article/details/90143152
   [19]: http://www.littletree.xyz/archives/jian-zhi-offer33-shu-de-zheng-shu-ci-fang
   [20]: https://blog.csdn.net/wang_shuyu/article/details/90143736
-  [21]: http://www.littletree.xyz/archives/jian-zhi-offer-da-yin-1dao-zui-da-de-nwei-shu
-  
+  [21]: http://www.littletree.xyz/archives/jian-zhi-offer-da-yin-1dao-zui-da-de-nwei-shu 
   [22]: https://blog.csdn.net/wang_shuyu/article/details/90545531
   [23]:http://www.littletree.xyz/archives/jian-zhi-offerzai-o1shi-jian-shan-chu-lian-biao-jie-dian
+  [24]:https://blog.csdn.net/wang_shuyu/article/details/90578102
+  [25]:http://www.littletree.xyz/archives/jian-zhi-offer-diao-zheng-shu-ju-shun-xu-qi-shu-wei-yu-ou-shu-qian-mian
