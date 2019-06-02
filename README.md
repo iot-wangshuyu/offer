@@ -13,6 +13,8 @@
  - 3.3 打印1到最大的n位数[\[CSDN\]][20][\[个人博客\]][21]
  - 3.3 在O(1)时间删除链表节点 [\[CSDN\]][22][\[个人博客\]][23]
  - 3.3 调整数组顺序奇数位于偶数前面 [\[CSDN\]][24][\[个人博客\]][25]
+ - 3.4 链表中倒数第k个结点 [\[CSDN\]][26][\[个人博客\]][27]
+ - 3.4 翻转链表 [\[CSDN\]][28][\[个人博客\]][29]
  
  
   [2]: https://blog.csdn.net/wang_shuyu/article/details/88977106
@@ -39,3 +41,7 @@
   [23]:http://www.littletree.xyz/archives/jian-zhi-offerzai-o1shi-jian-shan-chu-lian-biao-jie-dian
   [24]:https://blog.csdn.net/wang_shuyu/article/details/90578102
   [25]:http://www.littletree.xyz/archives/jian-zhi-offer-diao-zheng-shu-ju-shun-xu-qi-shu-wei-yu-ou-shu-qian-mian
+  [26]:https://blog.csdn.net/wang_shuyu/article/details/90739463
+  [27]:http://www.littletree.xyz/archives/jian-zhi-offerlian-biao-zhong-dao-shu-di-kge-jie-dian
+  [28]:https://blog.csdn.net/wang_shuyu/article/details/90742891
+  [29]:http://www.littletree.xyz/archives/jian-zhi-offerfan-zhuan-lian-biao
