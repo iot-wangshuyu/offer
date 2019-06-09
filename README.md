@@ -15,7 +15,8 @@
  - 3.3 调整数组顺序奇数位于偶数前面 [\[CSDN\]][24][\[个人博客\]][25]
  - 3.4 链表中倒数第k个结点 [\[CSDN\]][26][\[个人博客\]][27]
  - 3.4 翻转链表 [\[CSDN\]][28][\[个人博客\]][29]
- 
+ - 3.4 合并两个排序的链表 [\[CSDN\]][30][\[个人博客\]][31]
+ - 3.4 树的子结构 [\[CSDN\]][32][\[个人博客\]][33]
  
   [2]: https://blog.csdn.net/wang_shuyu/article/details/88977106
   [3]: http://www.littletree.xyz/archives/jian-zhi-offer231shu-zu-cha-zhao
@@ -45,3 +46,7 @@
   [27]:http://www.littletree.xyz/archives/jian-zhi-offerlian-biao-zhong-dao-shu-di-kge-jie-dian
   [28]:https://blog.csdn.net/wang_shuyu/article/details/90742891
   [29]:http://www.littletree.xyz/archives/jian-zhi-offerfan-zhuan-lian-biao
+  [30]:https://blog.csdn.net/wang_shuyu/article/details/91355128
+  [31]:http://www.littletree.xyz/archives/jian-zhi-offerhe-bing-liang-ge-pai-xu-de-lian-biao
+  [32]:https://blog.csdn.net/wang_shuyu/article/details/91356286
+  [33]:http://www.littletree.xyz/archives/jian-zhi-offer-shu-de-zi-jie-gou
